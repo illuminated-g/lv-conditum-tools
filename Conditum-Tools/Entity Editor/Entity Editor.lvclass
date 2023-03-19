@@ -251,6 +251,15 @@
 			</Item>
 		</Item>
 		<Item Name="Scripting" Type="Folder">
+			<Item Name="Clean Definition BD.vi" Type="VI" URL="../Clean Definition BD.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%7!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Q!=!!)!!"!!1!!!"Z!1!!"`````Q!&amp;%%*V&lt;G2M:3"5:8*N;7ZB&lt;(-!!!N!!Q!&amp;1W^V&lt;H1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51(!!#!!!1#=!!!&gt;%;7&amp;H=G&amp;N!""!=!!)!!!!!A!!!F:*!!"5!0!!$!!$!!1!"!!'!!1!"!!%!!=!#!!%!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!1!!!!#A!!!!!!!!!3!!!!%A!!!!!"!!M!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			</Item>
 			<Item Name="Default SubVIs.vi" Type="VI" URL="../Default SubVIs.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%F!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Q!=!!)!!"!!1!!!"J!1!!"`````Q!&amp;$6.V9F:*)%^V&gt;("V&gt;(-!%%"Q!!A!!!!#!!!#6EE!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!)%"!!!(`````!!5467ZC&gt;7ZE&lt;'6S)&amp;2F=GVJ&lt;G&amp;M=Q!31(!!#!!!!!)!!!6733"J&lt;A"5!0!!$!!$!!1!"A!(!!1!"!!%!!1!#!!%!!E!#A-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!)1!!!!%!!!!!!"!!M!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -268,6 +277,15 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			</Item>
+			<Item Name="Script Definition.vi" Type="VI" URL="../Script Definition.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*Z!!!!&amp;1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!31&amp;!!!Q!!!!%!!A6F=H*P=A!%!!!!'%"Q!!A!!!"*!!!,5(*P;G6D&gt;#"3:79!$E!S`````Q6$&lt;'^O:1!/1$,`````"&amp;*F97Q!!"B!&gt;!!#!!9!"QV5?8"F)&amp;"B&gt;'AA47&amp;Q!""!-0````]'5X2S;7ZH!!!31%!!!@````]!#16/97VF=Q!11$,`````"UR71WRB=X-!&amp;%!S`````QN$&lt;WRV&lt;7ZT,G.U&lt;!!51$,`````#E.P&lt;(6N&lt;H-O&gt;GE!!"B!-P````]05W6U)%2F:G&amp;V&lt;(2T,H:J!"Z!-P````]568"E982F)%&amp;M&lt;#"797RV:8-O&gt;GE!!'9!]1!!!!!!!!!$&amp;%.P&lt;G2J&gt;(6N,62P&lt;WRT,GRW&lt;'FC&amp;56O&gt;'FU?3"&amp;:'FU&lt;X)O&lt;(:D&lt;'&amp;T=R"&amp;&lt;H2J&gt;(EA5'&amp;U;(-O9X2M!#*!5!!&amp;!!M!$!!.!!Y!$QR&amp;&lt;H2J&gt;(EA5'&amp;U;(-!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!8E"Q!"Y!!#M/1W^O:'FU&gt;4)O&lt;(:M;7).1W^M&gt;7VO=SZM&gt;GRJ9AR5?8"F,GRW9WRB=X-!+5.P&lt;G2J&gt;(6N,GRW&lt;'FC/E.P&lt;(6N&lt;H-O&lt;(:M;7)[6(FQ:3ZM&gt;G.M98.T!#"!1!!"`````Q!3%F6Q:'&amp;U:71A2'6G;7ZJ&gt;'FP&lt;A!!6!$Q!!Q!!Q!%!!1!"!!&amp;!!A!#A!1!"%!"!!%!"-$!!"Y!!!.#!!!!!!!!!!!!!!!!!!!%!!!!"!!!!)1!!!!%!!!!!I!!!!!!!!!!!!!!B!!!!!!!1!5!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 			</Item>
 			<Item Name="Update Class Control.vi" Type="VI" URL="../Update Class Control.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$2!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"2!=!!)!!!!61!!"UR71WRB=X-!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1"5!0!!$!!$!!1!"!!%!!1!"1!%!!1!"A!%!!1!"!-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!"!!=!!!!!</Property>

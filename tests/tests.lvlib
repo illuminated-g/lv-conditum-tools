@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="LiveDemo.lvclass" Type="LVClass" URL="../LiveDemo/LiveDemo.lvclass"/>
+	<Item Name="MoarDemo.lvclass" Type="LVClass" URL="../MoarDemo/MoarDemo.lvclass"/>
 	<Item Name="Test1.lvclass" Type="LVClass" URL="../Test1/Test1.lvclass"/>
 	<Item Name="Test2.lvclass" Type="LVClass" URL="../Test2/Test2.lvclass"/>
 </Library>
