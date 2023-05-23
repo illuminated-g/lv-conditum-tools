@@ -32,7 +32,10 @@
 		<Item Name="Real Lib Classes.vi" Type="VI" URL="../Real Lib Classes.vi"/>
 	</Item>
 	<Item Name="Templates" Type="Folder"/>
-	<Item Name="UI" Type="Folder"/>
+	<Item Name="UI" Type="Folder">
+		<Item Name="No Modal for Dev.vi" Type="VI" URL="../No Modal for Dev.vi"/>
+		<Item Name="Restore Modal.vi" Type="VI" URL="../Restore Modal.vi"/>
+	</Item>
 	<Item Name="ColumnPanel.lvclass" Type="LVClass" URL="../ColumnPanel/ColumnPanel.lvclass"/>
 	<Item Name="Entity Editor.lvclass" Type="LVClass" URL="../Entity Editor/Entity Editor.lvclass"/>
 	<Item Name="TestConvert.vi" Type="VI" URL="../TestConvert.vi"/>
