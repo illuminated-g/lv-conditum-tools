@@ -20,8 +20,8 @@
 		<Item Name="Real Conditum" Type="Folder">
 			<Item Name="Conditum.lvlib" Type="Library" URL="/&lt;vilib&gt;/IlluminatedG/IG Conditum Base/Conditum/Conditum.lvlib"/>
 		</Item>
-		<Item Name="Tools Menu" Type="Folder">
-			<Item Name="Conditum Entity Editor.vi" Type="VI" URL="../Tools Menu/IlluminatedG/Conditum Entity Editor.vi"/>
+		<Item Name="Tools Menu" Type="Folder" URL="../Tools Menu">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Conditum-Tools.lvlib" Type="Library" URL="../Conditum-Tools/Conditum-Tools.lvlib"/>
 		<Item Name="tests.lvlib" Type="Library" URL="../tests/tests.lvlib"/>

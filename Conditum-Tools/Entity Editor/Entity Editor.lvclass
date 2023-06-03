@@ -97,22 +97,22 @@
 			</Item>
 			<Item Name="Creation" Type="Folder">
 				<Item Name="Add Entity to Container.vi" Type="VI" URL="../Add Entity to Container.vi">
-					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!=!!)!!!!61!!$%6O&gt;'FU?3"$&lt;'&amp;T=Q!!%%!Q`````Q&gt;1=G^K:7.U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$%!B"URJ9H*B=HE!%E!Q`````QF$&lt;WZU97FO:8)!&amp;%!S`````QN&amp;&lt;H2J&gt;(EA5'&amp;U;!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!9!"Q!)!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!)1!!!!#A!!!"!!!!!1!!!!%A!!!!!"!!M!!!!!</Property>
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%N!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!=!!)!!!!61!!$%6O&gt;'FU?3"$&lt;'&amp;T=Q!!&amp;%"Q!!A!!!!"!!!(1W^O&gt;'6Y&gt;!!11$$`````"V"S&lt;WJF9X1!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!-1#%(4'FC=G&amp;S?1!31$$`````#5.P&lt;H2B;7ZF=A!51$,`````#U6O&gt;'FU?3"1982I!&amp;1!]!!-!!-!"!!%!!5!"!!%!!9!"Q!)!!E!#A!,!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!%A!!!B!!!!!+!!!!%!!!!"!!!!!3!!!!!!%!$!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 					<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-					<Property Name="NI.ClassItem.State" Type="Int">1115685394</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
 				<Item Name="Copy Template.vi" Type="VI" URL="../Copy Template.vi">
-					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$\!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!-P````]14G6X)%RJ9H*B=HEA5'&amp;U;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!11$,`````"E:P&lt;'2F=A!!&amp;%!Q`````QN&amp;&lt;H2J&gt;(EA4G&amp;N:1"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!"%A!!!!!"!!E!!!!!</Property>
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%0!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!-P````]14G6X)%RJ9H*B=HEA5'&amp;U;!!!&amp;%"Q!!A!!!!"!!!(1W^O&gt;'6Y&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!""!-P````]'2G^M:'6S!!!51$$`````#U6O&gt;'FU?3"/97VF!&amp;1!]!!-!!-!"!!%!!5!"!!%!!9!"!!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!%A!!!!!!!!!+!!!!!!!!!")!!!%3!!!!!!%!#A!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 					<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-					<Property Name="NI.ClassItem.State" Type="Int">1117782544</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 				</Item>
 				<Item Name="Create Entity.vi" Type="VI" URL="../Create Entity.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"B!-P````]04G6X)%6O&gt;'FU?3"1982I!"2!-0````],27ZU;82Z)%ZB&lt;75!$%!B"URJ9H*B=HE!%%!Q`````Q&gt;1=G^K:7.U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%E!Q`````QF$&lt;WZU97FO:8)!%%!S`````Q:'&lt;WRE:8)!!"B!-0````]/27ZU;82Z)%ZB&lt;75A;7Y!!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!=!#!!*!!I!#Q!-!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!%!!!!B!!!!!+!!!!#!!!!")!!!)1!!!!!!%!$1!!!!!</Property>
