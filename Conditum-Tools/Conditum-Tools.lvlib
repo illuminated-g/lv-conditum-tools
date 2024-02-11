@@ -10,6 +10,8 @@
 	<Item Name="Data Types" Type="Folder">
 		<Item Name="Accessor Scope.ctl" Type="VI" URL="../Accessor Scope.ctl"/>
 		<Item Name="Accessors.ctl" Type="VI" URL="../Accessors.ctl"/>
+		<Item Name="Available Entity.ctl" Type="VI" URL="../Available Entity.ctl"/>
+		<Item Name="Context.ctl" Type="VI" URL="../Context.ctl"/>
 		<Item Name="Field Config.ctl" Type="VI" URL="../Field Config.ctl"/>
 	</Item>
 	<Item Name="Panels" Type="Folder">
@@ -26,9 +28,12 @@
 		<Item Name="Change Library.vim" Type="VI" URL="../Change Library.vim"/>
 		<Item Name="Clone Lib Classes.vi" Type="VI" URL="../Clone Lib Classes.vi"/>
 		<Item Name="Close OoC VI.vim" Type="VI" URL="../Close OoC VI.vim"/>
+		<Item Name="Editor Context.vi" Type="VI" URL="../Editor Context.vi"/>
 		<Item Name="Field Types.vi" Type="VI" URL="../Field Types.vi"/>
 		<Item Name="New Entity Template.vi" Type="VI" URL="../New Entity Template.vi"/>
 		<Item Name="OoC VI Ref.vim" Type="VI" URL="../OoC VI Ref.vim"/>
+		<Item Name="Plural.vi" Type="VI" URL="../Plural.vi"/>
+		<Item Name="Proper Case.vi" Type="VI" URL="../Proper Case.vi"/>
 		<Item Name="Real Lib Classes.vi" Type="VI" URL="../Real Lib Classes.vi"/>
 	</Item>
 	<Item Name="Templates" Type="Folder"/>
